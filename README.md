@@ -1,4 +1,4 @@
-# Streamoid - CSV Upload Backend (Flask + SQLite)
+# Streamoid - CSV Upload Backend (Flask + SQLite) with Dockerized Solution
 
 ## Overview
 Simple Flask app that:
