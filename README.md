@@ -7,6 +7,7 @@ Simple Flask app that:
 - Lists products with pagination (`GET /products`)
 - Searches products with filters (`GET /products/search`)
 - Given examples using postman see below
+- Dockerized solution (See Steps to implement)
 
 ## Install
 1. Create a virtualenv (recommended)
@@ -44,3 +45,28 @@ DB file created: `products.db` (SQLite) in project folder.
 
 - products
   <img width="1351" height="922" alt="get_products" src="https://github.com/user-attachments/assets/8fb003c4-6a50-4d82-ba26-8405a3342b18" />
+
+### Dockerized Format (with link)
+- First directly with Docker File and YML
+   - Install docker
+   - <img width="728" height="42" alt="image" src="https://github.com/user-attachments/assets/adbe7db1-90be-498a-80e8-e9a0f19811fa" />
+   - This command directly reads Docker File
+   - <img width="1042" height="116" alt="image" src="https://github.com/user-attachments/assets/696c2f6f-61a5-495c-8f9e-0af20009563a" />
+   - Run
+   - <img width="806" height="197" alt="image" src="https://github.com/user-attachments/assets/ff1674a5-88f6-459b-b78c-8ed13de030a4" />
+   - The docker image stored locally on device
+   - <img width="680" height="83" alt="image" src="https://github.com/user-attachments/assets/51b24212-1749-4ce8-872d-17da32891f6c" />
+- Second pull request from Docker
+  - I have already compiled the above first step
+  - Pull the docker image and run directly
+  - <img width="791" height="96" alt="image" src="https://github.com/user-attachments/assets/d4530320-7d17-410d-a0d0-309a96aede7c" />
+  - docker pull anurag9557/streamoid-backend:latest
+- Directly use my tar file nothing rest needed  🙂🙂🙂
+  - Link : https://drive.google.com/file/d/1AKUahcWbfMmhjSocM72aSUZno4zfzlkP/view?usp=drive_link
+  - <img width="1050" height="322" alt="image" src="https://github.com/user-attachments/assets/c1efd307-7bbb-4b23-a561-b260ec01beb4" />
+ 
+
+
+
+
+
