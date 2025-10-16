@@ -47,7 +47,7 @@ DB file created: `products.db` (SQLite) in project folder.
   <img width="1351" height="922" alt="get_products" src="https://github.com/user-attachments/assets/8fb003c4-6a50-4d82-ba26-8405a3342b18" />
 
 ### Dockerized Format (with link)
-- Method 1 : directly with Docker File and YML
+- **Method 1 : directly with Docker File and YML**
   
    - Install docker
    - <img width="728" height="42" alt="image" src="https://github.com/user-attachments/assets/adbe7db1-90be-498a-80e8-e9a0f19811fa" />
@@ -63,7 +63,7 @@ DB file created: `products.db` (SQLite) in project folder.
      
    - <img width="680" height="83" alt="image" src="https://github.com/user-attachments/assets/51b24212-1749-4ce8-872d-17da32891f6c" />
    
-- Method 2 : pull request from Docker
+- **Method 2 : pull request from Docker**
   - I have already compiled the above first step
   - Pull the docker image and run directly
     
@@ -71,7 +71,7 @@ DB file created: `products.db` (SQLite) in project folder.
   
   - docker pull anurag9557/streamoid-backend:latest
     
-- Method 3 : Directly use my tar file nothing rest needed  🙂🙂🙂
+- **Method 3 : Directly use my tar file nothing rest needed  🙂🙂🙂**
   
   - Link : https://drive.google.com/file/d/1AKUahcWbfMmhjSocM72aSUZno4zfzlkP/view?usp=drive_link
     
